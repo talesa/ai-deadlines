@@ -260,3 +260,13 @@
   date: September 2-6, 2018
   place: Hyderabad, India
   sub: SP
+
+- name: AIStats
+  year: 2018
+  id: aistats18
+  link: https://www.aistats.org/
+  deadline: "2017-10-13 23:59:59"
+  timezone: Etc/GMT
+  date: April 9-11, 2018
+  place: Playa Blanca, Lanzarote, Canary Islands
+  sub: ML
